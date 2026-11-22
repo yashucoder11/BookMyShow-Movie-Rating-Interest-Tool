@@ -1,10 +1,6 @@
 # BookMyShow-Movie-Rating-Interest-Tool
 A lightweight Node.js web tool that uses Puppeteer to instantly fetch movie ratings and interest counts from BookMyShow.
 
-# 🎬 BookMyShow Movie Rating & Interest Tool
-
-A lightweight Node.js web application that allows you to quickly search for any movie and fetch its **Rating (with votes)** or **Interest Count** directly from BookMyShow. 
-
 Built using **Express.js** for the server and **Puppeteer** for headless browser scraping.
 
 ## ✨ Features
@@ -27,9 +23,3 @@ Built using **Express.js** for the server and **Puppeteer** for headless browser
 ### Prerequisites
 Make sure you have [Node.js](https://nodejs.org/) installed on your machine.
 
-### Installation
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/bookmyshow-rating-interest-tool.git
-   cd bookmyshow-rating-interest-tool
